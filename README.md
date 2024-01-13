@@ -1,4 +1,4 @@
-lass Heroi {
+class Heroi {
     constructor(nomeDoHeroi, idadeDoHeroi, classeDoHeroi) {
         this.nomeDoHeroi = nomeDoHeroi;
         this.idadeDoHeroi = idadeDoHeroi;
